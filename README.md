@@ -1,12 +1,12 @@
-# 100 Days of Code: The Complete Python Pro Bootcamp for 2023
+# 100 Days of Code: The Complete Python Pro Bootcamp
 
 ## Minha Jornada de Aprendizado em Python
 
 Olá pessoal,
 
-Estou muito animado para compartilhar com vocês minha jornada de aprendizado no **100 Days of Code: The Complete Python Pro Bootcamp for 2023**. Este é um espaço onde documentarei meu progresso, desafios e conquistas à medida que mergulho em um mundo de código Python emocionante.
+Estou muito animado para compartilhar com vocês minha jornada de aprendizado no [100 Days of Code: The Complete Python Pro Bootcamp] da [Angela Yu]. Este é um espaço onde documentarei meu progresso, desafios e conquistas à medida que mergulho em um mundo de código Python emocionante.
 
-## O Que Vou Aprender?
+## O Que Vou Aprender? 📚
 
 -   **100 Projetos em 100 Dias:** Ao longo do curso, estarei construindo 100 projetos únicos em Python, o que promete ser uma jornada repleta de aprendizado prático.
     
@@ -27,7 +27,7 @@ Estou muito animado para compartilhar com vocês minha jornada de aprendizado no
 
 ## Por Que Estou Fazendo Isso?
 
--   **Python Profissional:** Meu objetivo é me tornar um programador de alto nível, mesmo começando do zero.
+-   **Python Profissional:** Meu objetivo é me tornar um desenvolvedor profissional, mesmo começando do zero.
     
 -   **Oportunidades de Emprego:** Estou ansioso para me preparar para oportunidades de trabalho como desenvolvedor Python com um portfólio repleto de projetos diversos.
     
@@ -38,8 +38,8 @@ Estou muito animado para compartilhar com vocês minha jornada de aprendizado no
 
 Esta é a minha chance de me tornar um mestre em Python e explorar o mundo fascinante da programação. Mal posso esperar para começar a codificar!
 
-**Vamos lá!** 🚀🐍
+**Bora lá!** 
 
-[![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ssr/) [![Medium badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@e.rafael.rss) [![Dev.to badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rafaqwerty)
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/rafa_qwerty_.svg?style=social&label=Follow%20%40rafa_qwerty_)](https://twitter.com/rafa_qwerty_)
+[100 Days of Code: The Complete Python Pro Bootcamp]:<https://www.udemy.com/course/100-days-of-code/>
+[Angela Yu]:<https://www.linkedin.com/in/angela-yu1/>
