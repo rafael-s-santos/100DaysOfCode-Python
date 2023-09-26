@@ -1,23 +1,11 @@
 
 <p  align="center"><img  src="https://images2.imgbox.com/89/e2/nRTuwl96_o.png"  height="200"/></p>
 
-  
-
 <h2  align="center">100 Days of Code: The Complete Python Pro Bootcamp</h2>
-
-  
 
 <p  align="center">Minha Jornada de Aprendizado em Python</p>
 
-  
-
-  
-
 Olá pessoal,
-
-  
-
-  
 
 Estou muito animado para compartilhar com vocês minha jornada de aprendizado no [100 Days of Code: The Complete Python Pro Bootcamp] da [Angela Yu]. Este é um espaço onde documentarei meu progresso, desafios e conquistas à medida que mergulho em um mundo de código Python emocionante.
 
