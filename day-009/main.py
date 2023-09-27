@@ -1,31 +1,36 @@
-programming_dictionary = {
-    "Bug":
-    "An error in a program that prevents the program from running as expected.",
-    "Function": "A piece of code that you can easily call over and over again."
-}
+# from replit import clear
+from art import logo
 
-# Retrieving items from dictionary.
-# print(programming_dictionary["Function"])
+print(logo)
 
-# Adding new items to dictionary.
-programming_dictionary[
-    "Loop"] = "The action of doing something over and over again."
+bind_dict = {}
 
-# Create an empty ditionary.
-empty_dictionary = {}
 
-# Wipe an existing dictionary
-# programming_dictionary = {}
-# print(programming_dictionary)
+def to_input():
+    name = input("What is your name?: ")
+    price = int(input("What is your bid?: "))
+    bind_dict[name] = price
 
-# Edit an item in a dictionary
-programming_dictionary["bug"] = "A moth in your computer."
-# print(programming_dictionary)
 
-# Loop through a dictionary
-# for thing in programming_dictionary:
-#     print(thing)
+def check_winner():
+    bindding_finished = False
+    while bindding_finished is False:
+        should_continue = input(
+            "Are there any other bidders? Type 'yes or 'no'.\n")
+        if should_continue == 'yes':
+            # clear()
+            to_input()
+        if should_continue == 'no':
+            value_max = 0
+            for key in bind_dict:
+                value_atual = bind_dict[key]
+                if value_atual > value_max:
+                    value_max = value_atual
+                    winner_name = key
 
-for key in programming_dictionary:
-    print(key)
-    print(programming_dictionary[key])
+            print(f"The winner is {winner_name} with a bid of {value_max}")
+            bindding_finished = True
+
+
+to_input()
+check_winner()
