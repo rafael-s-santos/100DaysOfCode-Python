@@ -1,1 +1,0 @@
-print("Other Tkinter Widgets: Radiobuttons, Scales, Checkbuttons and more".replace(":","").replace(",","").replace(" ", "_").lower())
