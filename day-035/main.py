@@ -1,7 +1,9 @@
 import requests
 
 OWN_Endpoint = "https://api.openweathermap.org/data/2.5/forecast?"
-api_key = "fb423834d3fc46f38754a0ce8d452535"
+api_key = "__YOUR_OWM_API_KEY__" #"fb423834d3fc46f38754a0ce8d452535"
+account_sid = "__YOUR_TWILIO_ACCOUNT_ID__"
+auth_token = "__YOUR_TWILIO_AUTH_TOKEN__"
 
 weather_params = {
     "lat": -20.326280,
@@ -24,4 +26,11 @@ for num_list in weather_data["list"]:
         break
     
 if will_rain:
-    print("Bring an umbrella.")
+    client = Client(account_sid, auth_token)
+    message = client.messages \
+        .create(
+        body="It's going to rain today. Remember to bring an ☔️",
+        from_="YOUR TWILIO VIRTUAL NUMBER",
+        to="YOUR TWILIO VERIFIED REAL NUMBER"
+    )
+    print(message.status)
