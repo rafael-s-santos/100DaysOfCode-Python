@@ -1,9 +1,0 @@
-What is API Authentication and Why Do We Need to Authenticate Ourselves?
-
-https://home.openweathermap.org/users/sign_up
-
-___________________________________________
-
-https://jsonviewer.stack.hu/
-
-___________________________________________
